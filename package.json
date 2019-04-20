@@ -2,8 +2,8 @@
   "name": "reason-to-do",
   "scripts": {
     "start": "bsb -make-world -w",
-    "build": "bsb -make-world",
-    "bundle": "webpack",
+    "build": "webpack -w",
+    "bundle": "bsb -make-world",
     "clean": "bsb -clean-world"
   },
   "dependencies": {
