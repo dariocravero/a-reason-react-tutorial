@@ -1,6 +1,6 @@
 {
-  "name" : "reason-to-do",
-  "reason" : {"react-jsx" : 2},
+  "name" : "a-reason-react-tutorial",
+  "reason" : {"react-jsx" : 3},
   "refmt": 3,
   "bs-dependencies": ["reason-react"],
   "sources": "src"
